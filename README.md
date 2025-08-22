@@ -1,2 +1,2 @@
 # Iris_prediction
-Using SVM and feature to predict the iris
+Using SVM and flower's feature to predict the iris
